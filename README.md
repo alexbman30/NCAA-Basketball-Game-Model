@@ -10,7 +10,7 @@ Organization of the files
 
 * 'Model' details the process for modeling data
 
-* '2020 Tournament Challenge' details how match-ups were created to simulate 2020 NCAA Tournament Games
+* '2020 Tournament Challenge' details how match-ups were created to simulate 2020 NCAA Tournament Games and how pickled model was used to find winner
 
 * 'Model Validation and Visuals' represents a more detailed analysis of modeling
 
